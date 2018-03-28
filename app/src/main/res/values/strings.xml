@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">Vilnius Guide</string>
+
+    <string name="call_text">Call</string>
+    <string name="website_text">website</string>
+    <string name="map_text">map</string>
+
+    <!-- Texts for places to visit -->
+    <string name="poi_category_name">Visit</string>
+    <!-- Texts for Gediminas tower -->
+    <string name="poi1_title">Gediminas\' Tower</string>
+    <string name="poi1_description">3 story 15th century brick tower</string>
+    <string name="poi1_address">Arsenalo street 5</string>
+    <string name="poi1_working_hours">04–09: I–VII 10:00–21:00\n10–03: I–VII 10:00–18:00</string>
+    <string name="poi1_tickets">Adults: 5 EUR.\nSchoolchild, student, senior: 2.50 EUR</string>
+    <string name="poi1_phone_number"> +370 5 261 7453</string>
+    <string name="poi1_website"> http://www.lnm.lt/en/</string>
+
+    <!-- Texts for Gate of Dawn -->
+    <string name="poi2_title">Gate of Dawn</string>
+    <string name="poi2_description">16th-century city gate and religious site</string>
+    <string name="poi2_address">Aušros Vartų street 12</string>
+    <string name="poi2_working_hours">I-VII 6.00 – 19.00</string>
+    <string name="poi2_tickets">Free</string>
+    <string name="poi2_phone_number"> +370 5 212 3513</string>
+    <string name="poi2_website"> http://www.ausrosvartai.lt</string>
+
+    <!-- Texts for Cathedral Square -->
+    <string name="poi3_title">Cathedral</string>
+    <string name="poi3_description">The most important Catholic building in Lithuania </string>
+    <string name="poi3_address">Katedros square 1</string>
+    <string name="poi3_working_hours">I – VII 7.00 – 19.00</string>
+    <string name="poi3_tickets">Free</string>
+    <string name="poi3_phone_number"> +370 5 261 07 31</string>
+    <string name="poi3_website">http://www.katedra.lt/</string>
+
+
+    <!-- Texts for Church of St. Anne -->
+    <string name="poi4_title">Church of st Anne</string>
+    <string name="poi4_description"> The masterpiece of the late Gothic period</string>
+    <string name="poi4_address">Maironio street 8</string>
+    <string name="poi4_working_hours">05–09 I–VII 11.00–18.00\n10–04 I–VII 17.00–19.00</string>
+    <string name="poi4_tickets">Free</string>
+    <string name="poi4_phone_number"> +370 67 67 44 63</string>
+    <string name="poi4_website">http://www.onosbaznycia.lt</string>
+
+    <!-- Texts for Television Tower -->
+    <string name="poi5_title">Television Tower</string>
+    <string name="poi5_description">The tallest building in Lithuania</string>
+    <string name="poi5_address">Sausio 13-osios street 10</string>
+    <string name="poi5_working_hours">I–IV, VII cash register 11.00 – 21.00,
+        restaurant 11.00 – 22.00\nV–VI cash register 11.00 – 22.00, restaurant 11.00 – 23.00</string>
+    <string name="poi5_tickets">Adult: 7–9 EUR.\nSchoolchild, disabled: 4 EUR.
+        \nChild under 5: free</string>
+    <string name="poi5_phone_number"> +370 5 252 5333</string>
+    <string name="poi5_website">http://www.tvbokstas.lt</string>
+
+    <!-- Texts for Three Crosses Monument -->
+    <string name="poi6_title">Three Crosses Monument</string>
+    <string name="poi6_description">Three white crosses on the hill with perfect Vilnius view</string>
+    <string name="poi6_address">T. Kosciuškos street</string>
+    <string name="poi6_working_hours">Always open</string>
+    <string name="poi6_tickets">Free</string>
+    <string name="poi6_phone_number">""</string>
+    <string name="poi6_website">https://en.wikipedia.org/wiki/Three_Crosses</string>
+
+    <!-- Texts for hotels -->
+    <string name="hotels_category_name">Sleep</string>
+    <!-- Hotel #1 -->
+    <string name="hotel1_title">Urbihop Hotel</string>
+    <string name="hotel1_description">2.2 km from center.\nFree parking</string>
+    <string name="hotel1_address">Ąžuolyno street 7</string>
+    <string name="hotel1_working_hours">24-hour front desk</string>
+    <string name="hotel1_prices">2 guests: 49 EUR</string>
+    <string name="hotel1_phone_number">+370 5 252 6262</string>
+    <string name="hotel1_website">http://www.urbihop.com</string>
+
+    <!-- Hotel #2 -->
+    <string name="hotel2_title">Hotel Tilto</string>
+    <string name="hotel2_description">City center.\nBreakfast included.</string>
+    <string name="hotel2_address">Tilto street. 8</string>
+    <string name="hotel2_working_hours">24-Hour Front Desk</string>
+    <string name="hotel2_prices">2 guests: 74 EUR</string>
+    <string name="hotel2_phone_number">+370 5 2100021</string>
+    <string name="hotel2_website">http://www.hoteltilto.com/?home</string>
+
+    <!-- Hotel #3 -->
+    <string name="hotel3_title">Artagonist Art Hotel</string>
+    <string name="hotel3_description">City center.\nBreakfast included.</string>
+    <string name="hotel3_address">Pilies street 34</string>
+    <string name="hotel3_working_hours">24-hour front desk</string>
+    <string name="hotel3_prices">2 guests: 129 EUR</string>
+    <string name="hotel3_phone_number">+370 5 243 0000</string>
+    <string name="hotel3_website">http://www.artagonist.lt/en/home-page/</string>
+
+    <!-- Hotel #4 -->
+    <string name="hotel4_title">Artis Centrum Hotel</string>
+    <string name="hotel4_description">City center.\nBreakfast included.</string>
+    <string name="hotel4_address">Totorių street 23</string>
+    <string name="hotel4_working_hours">24-hour front desk</string>
+    <string name="hotel4_prices">2 guests: 109 EUR</string>
+    <string name="hotel4_phone_number">+370 52660366</string>
+    <string name="hotel4_website">http://www.artis.centrumhotels.com/en/</string>
+
+    <!-- Hotel #5 -->
+    <string name="hotel5_title">AirInn Vilnius Hotel</string>
+    <string name="hotel5_description">3.1 from city center.\n50 metres away from the airport</string>
+    <string name="hotel5_address">Rodūnios road 8</string>
+    <string name="hotel5_working_hours">24-hour front desk</string>
+    <string name="hotel5_prices">2 guests: 79 EUR</string>
+    <string name="hotel5_phone_number"> +370 698 13 909</string>
+    <string name="hotel5_website">http://www.airinn.lt/</string>
+
+    <!-- Hotel #6 -->
+    <string name="hotel6_title">Shakespeare Boutique Hotel</string>
+    <string name="hotel6_description">City center.\nBreakfast included.</string>
+    <string name="hotel6_address">Bernardinų street 8/8</string>
+    <string name="hotel6_working_hours">24-hour front desk</string>
+    <string name="hotel6_prices">2 guests: 135 EUR</string>
+    <string name="hotel6_phone_number">+37052665885</string>
+    <string name="hotel6_website">http://www.shakespeare.lt/</string>
+
+    <!-- Texts for restaurants -->
+    <string name="eat_category_name">Eat</string>
+
+    <!-- Restaurant #1 -->
+    <string name="eat1_title">Džiaugsmas</string>
+    <string name="eat1_description">Local cuisine</string>
+    <string name="eat1_address">Vilniaus street 28</string>
+    <string name="eat1_working_hours">II-VI 4pm-11pm</string>
+    <string name="eat1_prices">Main dish ~ 27 EUR</string>
+    <string name="eat1_phone_number">+37063111153</string>
+    <string name="eat1_website">www.dziaugsmas.com</string>
+
+    <!-- Restaurant #2 -->
+    <string name="eat2_title">Šturmų švyturys</string>
+    <string name="eat2_description">Lithuanian fresh fish restaurant</string>
+    <string name="eat2_address">Užupio street 30</string>
+    <string name="eat2_working_hours">I-VII 12pm-10pm</string>
+    <string name="eat2_prices">Main dish ~ 30 EUR</string>
+    <string name="eat2_phone_number">+370 656 98000</string>
+    <string name="eat2_website">www.sturmusvyturys.lt</string>
+
+    <!-- Restaurant #3 -->
+    <string name="eat3_title">Dine</string>
+    <string name="eat3_description">Fine dining</string>
+    <string name="eat3_address">Gedimino pr. 35</string>
+    <string name="eat3_working_hours">I-III 11:30am-10pm,\nIV-VI 11:30am-11pm</string>
+    <string name="eat3_prices">Main dish ~ 25 EUR</string>
+    <string name="eat3_phone_number">+37067223272</string>
+    <string name="eat3_website">https://www.facebook.com/Dine-restoranas-1494206234182640/</string>
+
+    <!-- Restaurant #4 -->
+    <string name="eat4_title">Sweet Root</string>
+    <string name="eat4_description">Local cuisine inspired by the seasons of the year</string>
+    <string name="eat4_address">Užupio street 22,</string>
+    <string name="eat4_working_hours">III-VI 6pm-11pm</string>
+    <string name="eat4_prices">Main dish ~ 30 EUR</string>
+    <string name="eat4_phone_number">+370 685 60767</string>
+    <string name="eat4_website">www.sweetroot.lt</string>
+
+    <!-- Restaurant #5 -->
+    <string name="eat5_title">Gaspar\'s</string>
+    <string name="eat5_description">Modern cuisine inspired by India</string>
+    <string name="eat5_address">Pylimo street 23</string>
+    <string name="eat5_working_hours">I-IV 12pm-10:30pm\nV-VI 12pm-11pm\nVII 10am-8:30pm</string>
+    <string name="eat5_prices">Main dish ~ 25 EUR</string>
+    <string name="eat5_phone_number">+37065707050</string>
+    <string name="eat5_website">www.gaspars.lt</string>
+
+    <!-- Restaurant #6 -->
+    <string name="eat6_title">Stebuklai</string>
+    <string name="eat6_description">Grill and bar</string>
+    <string name="eat6_address">Gynėjų street 14</string>
+    <string name="eat6_working_hours">I-VII 8am-11pm</string>
+    <string name="eat6_prices">Main dish ~ 23 EUR</string>
+    <string name="eat6_phone_number">868585357</string>
+    <string name="eat6_website">www.stebuklai.com</string>
+
+    <!-- Texts for Events -->
+    <string name="events_category_name">Join</string>
+
+    <!-- Event #1 -->
+    <string name="events1_title">Vilnius International Film Festival Kino Pavasaris</string>
+    <string name="events1_description">Country’s largest film festival running for the 23rd year.</string>
+    <string name="events1_address">Movie theatres: Forum Cinemas Vingis,
+        Forum Cinemas Akropolis and Pasaka</string>
+    <string name="events1_working_hours">15-29 March, 2018</string>
+    <string name="events1_prices">15 EUR</string>
+    <string name="events1_phone_number">""</string>
+    <string name="events1_website">http://kinopavasaris.lt/en</string>
+
+    <!-- Event #2 -->
+    <string name="events2_title">Street Music Day</string>
+    <string name="events2_description">One day in a year musicians give free performances
+        in city streets.</string>
+    <string name="events2_address">Streets of Vilnius‘ Old Town and City Centre</string>
+    <string name="events2_working_hours">19 May, 2018</string>
+    <string name="events2_prices">Free</string>
+    <string name="events2_phone_number">""</string>
+    <string name="events2_website">gmd.lt</string>
+
+    <!-- Event #3 -->
+    <string name="events3_title">Culture Night</string>
+    <string name="events3_description">The one-night festival opens the doors of multiple
+        venues in town.</string>
+    <string name="events3_address">Vilnius centre</string>
+    <string name="events3_working_hours">15 June, 2018</string>
+    <string name="events3_prices">Free</string>
+    <string name="events3_phone_number">""</string>
+    <string name="events3_website">kulturosnaktis.lt</string>
+
+    <!-- Event #4 -->
+    <string name="events4_title">Lithuanian Song and Dance Festival</string>
+    <string name="events4_description">Traditional song and dance festival included in UNESCO’s list
+        of Intangible World Heritage.</string>
+    <string name="events4_address">Vingio parkas</string>
+    <string name="events4_working_hours">1-6 July, 2018</string>
+    <string name="events4_prices">Free</string>
+    <string name="events4_phone_number">""</string>
+    <string name="events4_website">www.dainusvente.lt/</string>
+
+</resources>
